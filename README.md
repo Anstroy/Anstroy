@@ -7,10 +7,10 @@ there! I'm Aus</h2>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and
 quick hacks.\
-👨🏻‍💻 &nbsp;Currently working as a Software Developer.\
-🎓 &nbsp;Bachelor's degree in IT and Associate's degree in Computer Science.\
+👨🏻‍💻 &nbsp;Currently working as a `Software Engineer`.\
+🎓 &nbsp;Bachelor's degree in IT and Associate's degree in `Computer Science`.\
 🌱 &nbsp;I am currently looking to learn more about blockchain and eventually
-work as a Blockchain developer.\
+work as a `Blockchain developer`.\
 ✍️ &nbsp;In my free time, I like to travel to try different kinds of food plates
 around the world.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering services,
